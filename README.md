@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @H3nr1-1
 - 👀 I’m interested in ... HTML5, CSS, Javascript, Bootstrap, jQuery, crypto mining and building pc's.
-- 🌱 I’m currently learning ... Web and Development, HTML5, CSS, JavaSctipr, jQuery, Bootstrap, PHP, MySQL. 
+- 🌱 I’m currently learning ... Web and Development, HTML5, CSS, JavaScripr, jQuery, Bootstrap, PHP, MySQL. 
 - 💞️ I’m looking to create unique websites. 
 - 📫 How to reach me ... send an email.  I also have Discord, email for user name info.
 
