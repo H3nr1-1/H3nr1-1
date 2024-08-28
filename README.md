@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @H3nr1-1
-- 👀 I’m interested in ... HTML5, CSS, Javascript, Bootstrap, jQuery, crypto mining and building pc's.
-- 🌱 I’m currently learning ... Web and Development, HTML5, CSS, JavaScript, jQuery, Bootstrap, PHP, MySQL. 
+- 👋 Hi, I’m @H3nr1-1 or Chris
+- 👀 I’m interested in ... HTML, CSS, Javascript, Responsive Design, C#, crypto mining and building pc's.
+- 🌱 I’m currently learning ... Web Development.  I already have a Technical Diploma as Web Development Specialist and am currently continuing my education for my Associate Degree.  Learning CMS and C# currently. 
 - 💞️ I’m looking to create unique websites. 
 - 📫 How to reach me ... visit my website: c-henri.com
 
