@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chris
-- 👀 I’m interested in ... HTML, CSS, Javascript, Responsive Design, Bootstrap, SilverStripe, crypto mining and building pc's.
-- 🌱 I’m currently learning ... Web Development.  I have a Technical Diploma as Web Development Specialist and am currently continuing my education for my Associate Degree.  Learning Frontend Design, SilverStripe CMS and ASP.NET currently. 
-- 💞️ I’m looking to create unique websites. 
+- 👀 I’m interested in ... HTML, CSS, Javascript, Responsive Design, Bootstrap, SilverStripe and building pc's.
+- 🌱 I’m currently learning ... Web Development.  I have a Technical Diploma as Web Development Specialist and am currently continuing my education for my Associate Degree.  Learning Frontend Design, SilverStripe CMS and ASP.NET. 
+- 💞️ I’m looking to create unique websites and applications. 
 - 📫 How to reach me ... visit my website: c-henri.com
 
 <!---
