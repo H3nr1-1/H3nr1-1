@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris
 - 👀 I’m interested in ... HTML, CSS, Javascript, Responsive Design, Bootstrap, SilverStripe and building pc's.
-- 🌱 I’m currently learning ... Web Development.  I have a Technical Diploma as Web Development Specialist and am currently continuing my education for my Associate Degree.  Learning Frontend Design, SilverStripe CMS and WordPress. 
+- 🌱 I completed an Associate Degree from Northeast Wisconsin Technical College in Web Development and Design.  I am looking to pursue a career as a Front End Developer.  I'm at the begining of learning Vue.js. 
 - 💞️ I’m looking to create unique websites and applications. 
 - 📫 How to reach me ... visit my website: c-henri.com
 
