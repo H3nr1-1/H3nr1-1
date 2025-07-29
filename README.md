@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris
-- 👀 I’m interested in ... HTML, CSS, Javascript, Responsive Design, Bootstrap, SilverStripe and building pc's.
+- 👀 I’m interested in ... HTML, CSS/SCSS, Javascript, Responsive Design, Bootstrap, SilverStripe and building pc's.
 - 🌱 I completed an Associate Degree from Northeast Wisconsin Technical College in Web Development and Design.  I am looking to pursue a career as a Front End Developer.  I'm at the begining of learning Vue.js. 
 - 💞️ I’m looking to create unique websites and applications. 
 - 📫 How to reach me ... visit my website: c-henri.com
